@@ -155,7 +155,14 @@ ctrl + shift + Escape
 
 
 Print
-     scrot -e 'mv $f ~/Pictures/'
+     flameshot 
+     # flameshot full -p $HOME/Pictures
+
+
+ctrl + Print
+     flameshot
+
+
 
 
 #################################################################
