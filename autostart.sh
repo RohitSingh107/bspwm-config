@@ -23,7 +23,7 @@ $HOME/.config/polybar/launch.sh &
 
 #Some ways to set your wallpaper besides variety or nitrogen
 #feh --bg-scale ~/.config/bspwm/wall.png &
-feh --bg-fill /home/rohits/mydata/Pictures/wallpapers/0051.jpg &
+feh --bg-fill /home/rohits/mydata/home/Pictures/wallpapers/0051.jpg
 #feh --randomize --bg-fill ~/Képek/*
 #feh --randomize --bg-fill ~/Dropbox/Apps/Desktoppr/*
 
